@@ -4,13 +4,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=100&width=1000&color=000000&center=true&lines=Full+Stack+App+Developer;Flutter/Android;Self+Learner;CSE+Student;Love+to+learn+new+stuffs+❤" alt="Typing SVG" /></a>
 
 
-- 🔭 I’m currently working on **MERN Social Web Application**
+- 🔭 I’m currently working on **Android App Development**
 
-- 🌱 I’m currently learning **React & Express**
+- 🌱 I’m currently learning **Flutter App Development**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Android App Development**
 
-- 📫 How to reach me **mdbulbulmolla1222@gmail.com**
+- 📫 How to reach me **hridoyhk056@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
