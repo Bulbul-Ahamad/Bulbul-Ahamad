@@ -1,7 +1,7 @@
 <h1 align="center">I'm Md. Bulbul Ahamad 👋</h1>
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&color=000000&duration=3000&pause=100&width=1000&color=000000&center=true&lines=Full+Stack+App+Developer;Flutter/Android;Self+Learner;CSE+Student;Love+to+learn+new+stuffs+❤" alt="Typing SVG" /></a>
- 
+  
   
 - 🔭 I’m currently working on **Android App Development**
    
